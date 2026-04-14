@@ -43,7 +43,7 @@ Visualization scripts. Word clouds and quote-card figures contrasting:
 
 ---
 
-## Optional / not yet run
+## not yet run
 
 ### `04_llm_rater.py`
 Uses Claude (Haiku via Batch API) to re-rate each text on the original 0/1/2 scale, plus specificity, distress, and child-reference flags. Requires `ANTHROPIC_API_KEY`. Run with:

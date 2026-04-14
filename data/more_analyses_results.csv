@@ -1,0 +1,89 @@
+predictor,outcome,n,r,p,sig,n_yes
+Fears text sev,T1 Int,37,0.296,0.075,†,
+Fears text sev,T1 Ext,37,0.247,0.141, ,
+Fears text sev,T1 Tot,37,0.353,0.032,*,
+Fears text sev,T2 Int,34,0.103,0.563, ,
+Fears text sev,T2 Ext,34,0.021,0.905, ,
+Fears text sev,T2 Tot,34,0.069,0.697, ,
+Fears text sev,T3 Int,31,0.192,0.301, ,
+Fears text sev,T3 Ext,31,0.41,0.022,*,
+Fears text sev,T3 Tot,31,0.365,0.043,*,
+Fears text sev,T4 Int,29,0.352,0.061,†,
+Fears text sev,T4 Tot,29,0.477,0.009,**,
+Fears text sev,TA Int,21,0.153,0.507, ,
+Fears text sev,TA Tot,21,0.226,0.324, ,
+Sleep text sev,T1 Int,44,0.101,0.513, ,
+Sleep text sev,T1 Ext,44,0.112,0.467, ,
+Sleep text sev,T1 Tot,44,0.142,0.358, ,
+Sleep text sev,T2 Int,47,0.023,0.877, ,
+Sleep text sev,T2 Ext,47,-0.033,0.826, ,
+Sleep text sev,T2 Tot,47,0.003,0.985, ,
+Sleep text sev,T3 Int,38,0.05,0.767, ,
+Sleep text sev,T3 Ext,38,0.082,0.627, ,
+Sleep text sev,T3 Tot,38,0.102,0.544, ,
+Sleep text sev,T4 Int,34,0.165,0.353, ,
+Sleep text sev,T4 Tot,34,0.229,0.193, ,
+Sleep text sev,TA Int,26,0.066,0.747, ,
+Sleep text sev,TA Tot,26,0.097,0.638, ,
+Fears word count,T1 Internalizing,37,-0.033,0.848, ,
+Fears word count,T1 Total,37,0.04,0.816, ,
+Fears word count,T2 Internalizing,34,0.35,0.043,*,
+Fears word count,T2 Total,34,0.36,0.037,*,
+Sleep word count,T1 Internalizing,44,0.112,0.468, ,
+Sleep word count,T1 Total,44,0.129,0.404, ,
+Sleep word count,T2 Internalizing,47,0.221,0.135, ,
+Sleep word count,T2 Total,47,0.2,0.177, ,
+Obsessions word count,T1 Internalizing,41,0.064,0.691, ,
+Obsessions word count,T1 Total,41,0.138,0.39, ,
+Obsessions word count,T2 Internalizing,41,0.059,0.712, ,
+Obsessions word count,T2 Total,41,0.178,0.265, ,
+Strange thoughts wc,T2 Internalizing,8,0.821,0.012,*,
+Strange thoughts wc,T2 Total,8,0.843,0.009,**,
+Total word count (all items),T1 Internalizing,80,-0.01,0.926, ,
+Total word count (all items),T1 Total,80,0.025,0.829, ,
+Total word count (all items),T2 Internalizing,76,0.195,0.091,†,
+Total word count (all items),T2 Total,76,0.208,0.071,†,
+Sleep onset (can't fall asle,T1 Internalizing,44,0.203,0.187, ,16.0
+Sleep onset (can't fall asle,T1 Total,44,0.153,0.321, ,16.0
+Sleep onset (can't fall asle,T2 Internalizing,47,0.175,0.238, ,16.0
+Sleep onset (can't fall asle,T2 Total,47,0.218,0.142, ,16.0
+Sleep maintenance (wakes up),T1 Internalizing,44,0.268,0.079,†,21.0
+Sleep maintenance (wakes up),T1 Total,44,0.185,0.229, ,21.0
+Sleep maintenance (wakes up),T2 Internalizing,47,0.247,0.094,†,21.0
+Sleep maintenance (wakes up),T2 Total,47,0.203,0.172, ,21.0
+Worry/stress-driven sleep,T1 Internalizing,44,-0.053,0.731, ,16.0
+Worry/stress-driven sleep,T1 Total,44,-0.088,0.571, ,16.0
+Worry/stress-driven sleep,T2 Internalizing,47,-0.087,0.563, ,16.0
+Worry/stress-driven sleep,T2 Total,47,0.007,0.964, ,16.0
+Physical/medical cause,T1 Internalizing,44,-0.231,0.131, ,7.0
+Physical/medical cause,T1 Total,44,-0.286,0.06,†,7.0
+Physical/medical cause,T2 Internalizing,47,-0.187,0.209, ,7.0
+Physical/medical cause,T2 Total,47,-0.216,0.145, ,7.0
+Child/family-related sleep,T1 Internalizing,44,-0.089,0.567, ,3.0
+Child/family-related sleep,T1 Total,44,-0.073,0.638, ,3.0
+Child/family-related sleep,T2 Internalizing,47,0.172,0.247, ,3.0
+Child/family-related sleep,T2 Total,47,0.078,0.604, ,3.0
+Social/internal fears,T1 Internalizing,37,0.2,0.236, ,
+Social/internal fears,T1 Total,37,0.127,0.452, ,
+Social/internal fears,T2 Internalizing,34,0.365,0.034,*,
+Social/internal fears,T2 Total,34,0.34,0.049,*,
+External/object phobias,T1 Internalizing,37,0.187,0.269, ,
+External/object phobias,T1 Total,37,0.105,0.537, ,
+External/object phobias,T2 Internalizing,34,0.069,0.697, ,
+External/object phobias,T2 Total,34,0.123,0.488, ,
+Worry/stress language,T1 Internalizing,80,0.051,0.65, ,
+Worry/stress language,T1 Total,80,0.023,0.841, ,
+Worry/stress language,T2 Internalizing,76,0.066,0.572, ,
+Worry/stress language,T2 Total,76,0.042,0.718, ,
+Worry/stress language,T3 Internalizing,69,0.115,0.348, ,
+Worry/stress language,T3 Total,69,0.162,0.185, ,
+Mentions child/family,T1 Internalizing,80,0.036,0.751, ,
+Mentions child/family,T1 Total,80,0.004,0.973, ,
+Mentions child/family,T2 Internalizing,76,0.158,0.174, ,
+Mentions child/family,T2 Total,76,0.172,0.137, ,
+N items with text,T1 Internalizing,80,0.038,0.739, ,
+N items with text,T1 Total,80,0.054,0.635, ,
+N items with text,T2 Internalizing,76,0.011,0.922, ,
+N items with text,T2 Total,76,0.023,0.845, ,
+N items with text,T3 Internalizing,69,0.053,0.665, ,
+N items with text,T3 Total,69,0.121,0.32, ,

@@ -1,0 +1,9 @@
+composite,desc,outcome,n,r,p
+sev_internalizing,"Parent internalizing text (9,29,46,58,85,100)",T1_YSR_Internalizing,88,-0.032,0.769
+sev_internalizing,"Parent internalizing text (9,29,46,58,85,100)",T2_YSR_Internalizing,77,-0.007,0.953
+sev_internalizing,"Parent internalizing text (9,29,46,58,85,100)",T1_YSR_Total,88,-0.069,0.524
+sev_externalizing,"Parent externalizing text (84,92)",T1_YSR_Externalizing,25,-0.166,0.428
+sev_externalizing,"Parent externalizing text (84,92)",T2_YSR_Externalizing,17,-0.085,0.746
+sev_externalizing,"Parent externalizing text (84,92)",T1_YSR_Total,25,-0.017,0.934
+sev_thought,"Parent thought-prob text (40,84,85)",T1_YSR_Total,23,-0.143,0.515
+sev_thought,"Parent thought-prob text (40,84,85)",T2_YSR_Total,15,-0.005,0.985

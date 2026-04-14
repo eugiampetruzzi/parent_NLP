@@ -1,0 +1,7 @@
+outcome,label,n_scores,r_scores,p_scores,n_text,r_text,p_text,n_both,r_predictors,t_diff,p_diff
+T1_YSR_Internalizing,T1 Internalizing (concurrent),128,0.224,0.011,89,0.122,0.255,79,0.046,0.661,0.511
+T1_YSR_Externalizing,T1 Externalizing (concurrent),128,0.131,0.142,89,0.104,0.33,79,0.046,0.166,0.869
+T1_YSR_Total,T1 Total (concurrent),128,0.174,0.05,89,0.118,0.27,79,0.046,0.356,0.723
+T2_YSR_Internalizing,T2 Internalizing (prospective ~1yr),118,0.096,0.3,78,-0.054,0.638,76,0.011,0.925,0.358
+T2_YSR_Externalizing,T2 Externalizing (prospective ~1yr),118,0.021,0.819,78,0.064,0.576,76,0.011,-0.264,0.792
+T2_YSR_Total,T2 Total (prospective ~1yr),118,0.099,0.285,78,0.035,0.759,76,0.011,0.394,0.695

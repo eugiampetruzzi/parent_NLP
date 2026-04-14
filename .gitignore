@@ -1,0 +1,20 @@
+# Participant data — never commit
+data/*.csv
+data/*.npy
+data/*.xlsx
+
+# Annotation files with participant text
+human_annotation/texts_to_rate.csv
+human_annotation/texts_to_rate.xlsx
+
+# Keep output figures
+!data/*.png
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
